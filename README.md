@@ -1,5 +1,6 @@
 # blog
 明日からではなく、今から本気出す
+<a href="https://aso-takahiro.github.io/blog/">URL</a>
 
 ## 概要
 ・日々を適当に過ごしていたけど、とある出来事により本気を出すことにした。
