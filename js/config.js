@@ -44,6 +44,11 @@ var config = {
       layout: { list: 'page-list', single: 'page' },
     },
   ],
+  onload: function() {
+    document.getElementById('search').addEventListener('input', function(e) {
+      blog.search('posts', 'title', e.target.value);
+    });
+  },
 };
 
 // Initialize CMS.js
