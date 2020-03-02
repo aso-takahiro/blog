@@ -2,6 +2,24 @@
 title: About
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas purus viverra. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Potenti nullam ac tortor vitae. Vitae sapien pellentesque habitant morbi tristique. Aliquam sem et tortor consequat id porta nibh venenatis cras. Integer vitae justo eget magna fermentum iaculis eu. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Mattis enim ut tellus elementum sagittis. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Ullamcorper malesuada proin libero nunc consequat interdum varius. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Vitae tempus quam pellentesque nec nam aliquam sem et tortor.
 
-Tellus molestie nunc non blandit massa. Porttitor leo a diam sollicitudin. Malesuada pellentesque elit eget gravida cum sociis natoque. Ultricies leo integer malesuada nunc vel risus commodo viverra. Amet porttitor eget dolor morbi non arcu. Bibendum arcu vitae elementum curabitur vitae nunc. Ut sem nulla pharetra diam sit amet. Ac feugiat sed lectus vestibulum mattis ullamcorper. Eu volutpat odio facilisis mauris sit amet massa vitae. Semper eget duis at tellus at urna condimentum mattis pellentesque. Tincidunt dui ut ornare lectus sit amet. Sed augue lacus viverra vitae congue eu. Nisi lacus sed viverra tellus. Sed id semper risus in. Urna nunc id cursus metus aliquam.
+本日（2020/03/02）より、「今から本気出すブログを開設することを宣言します！」
+
+## 概要
+* 日々を適当に過ごしていたけど、とある出来事により本気を出すことにした。
+* それが今日（2020/03/02）
+* この気持ちを忘れないように、ブログの本題とし、knowledgeブログ的な物を作ることによって意識を高いところに保つ。
+
+## 内容
+* WEB系のみならず業務効率化に関する'自己解釈した'内容。
+* 備忘録。
+* モチベーションを保つための何か。
+
+## 方針
+* 本気を出しても息切れしないようペース配分には気を配る。
+  - それが本気なのかは不問とする。（手は抜かない）  
+  - 極端に難しいことを突発的にはしない。  
+  - せっかちになり過ぎない。物事には時間が'ある程度'かかると割り切る（その為には時間を無駄にしない）  
+  - ローカルでこそこそしない。アウトプットを心がける。  
+  - キーボードは平たいものを使う。
+  - READMEの役割については深く触れない。
