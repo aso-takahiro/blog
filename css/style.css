@@ -1,0 +1,14 @@
+.masthead {
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-between;
+}
+.masthead-title {
+    float: none;
+}
+.nav {
+    float: none;
+}
+.form {
+    display: flex;
+}
