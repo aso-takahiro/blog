@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Docker compose + Wordpress
-excerpt: 本日（2020/03/02）より、「今から本気出すブログを開設することを宣言します！」
+excerpt: たいぶ乗り遅れていますが、Docker（compose）を使用して、Wordpressのローカル開発環境を整えようと思い立ったので、備忘録的な記事を投稿します。
 tags: blog
 ---
 
-見出し見出し見出し見出し見出し見出し見出し見出し見出し見出し見出し見出し見出し見出し見出し
+たいぶ乗り遅れていますが、Docker（compose）を使用して、Wordpressのローカル開発環境を整えようと思い立ったので、備忘録的な記事を投稿します。
 
 -----
 
